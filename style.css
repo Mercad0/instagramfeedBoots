@@ -1,0 +1,15 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr ;
+    grid-template-rows: auto;
+    column-gap: 5px;
+    row-gap: 5px;
+    }
+
+    .title {
+        display: flex;
+    }
+    span {
+        margin-left: 280px;
+        
+    }
